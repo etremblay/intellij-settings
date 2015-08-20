@@ -1,0 +1,688 @@
+<application>
+  <component name="libraryTable">
+    <library name="adrien-boolean_1.0.1 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/boolean" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="adrien-filemapper_1.1.2 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/filemapper" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="adrien-network_0.4.1 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/network" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="ajcrowe-supervisord_0.5.2 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/supervisord" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="arioch-keepalived_1.1.1 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/keepalived" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="arnoudj-sudo_1.3.0 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/sudo" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="arusso-stunnel_2.1.2 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/stunnel" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="attachmentgenie-ssh_1.5.1 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/ssh" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="bareos_nover [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/bareos" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="camptocamp-augeas_1.2.7 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/augeas" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="camptocamp-openldap_1.6.5 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/openldap" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="camptocamp-postfix_1.2.5 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/postfix" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="common_nover [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/common" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="corosync_nover [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/corosync" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="cron_nover [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/cron" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="darin/zypprepo_1.0.1 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/zypprepo" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="dovecot_nover [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/dovecot" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="drbd_nover [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/drbd" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="echoes-monit_0.1.4 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/monit" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="edestecd-clamav_0.2.1 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/clamav" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="example42-monitor_2.0.1 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/monitor" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="example42-puppi_2.1.10 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/puppi" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="example42-yum_2.1.18 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/yum" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="freight_nover [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/freight" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="ghoneycutt-nsswitch_0.0.1 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/nsswitch" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="gnupg_nover [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/gnupg" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="herculesteam-augeasproviders_2.1.3 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/augeasproviders" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="herculesteam-augeasproviders_apache_2.0.0 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/augeasproviders_apache" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="herculesteam-augeasproviders_base_2.0.1 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/augeasproviders_base" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="herculesteam-augeasproviders_core_2.1.1 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/augeasproviders_core" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="herculesteam-augeasproviders_grub_2.0.1 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/augeasproviders_grub" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="herculesteam-augeasproviders_mounttab_2.0.0 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/augeasproviders_mounttab" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="herculesteam-augeasproviders_nagios_2.0.1 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/augeasproviders_nagios" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="herculesteam-augeasproviders_pam_2.0.3 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/augeasproviders_pam" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="herculesteam-augeasproviders_postgresql_2.0.3 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/augeasproviders_postgresql" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="herculesteam-augeasproviders_puppet_2.0.2 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/augeasproviders_puppet" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="herculesteam-augeasproviders_shellvar_2.1.1 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/augeasproviders_shellvar" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="herculesteam-augeasproviders_ssh_2.2.2 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/augeasproviders_ssh" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="herculesteam-augeasproviders_sysctl_2.0.2 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/augeasproviders_sysctl" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="herculesteam-augeasproviders_syslog_2.1.1 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/augeasproviders_syslog" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="hunner-hiera_1.1.1 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/hiera" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="imapd_nover [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/imapd" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="jenkins_debian_glue_nover [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/jenkins_debian_glue" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="jfryman-nginx_0.0.10 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/nginx" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="jjb_nover [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/jjb" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="jtopjian-apt_mirror_1.1.2 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/apt_mirror" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="jtopjian-reprepro_1.6.0 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/reprepro" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="kronos_nover [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/kronos" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="lex-dnsmasq_2.6.1 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/dnsmasq" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="maestrodev-wget_1.7.0 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/wget" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="markhellewell-aptcacherng_0.1.7 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/aptcacherng" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="name_3.0.0 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/puppetdb" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="nanliu-staging_1.0.3 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/staging" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="nextrevision-automysqlbackup_0.2.4 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/automysqlbackup" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="nfs_nover [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/nfs" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="nslcd_nover [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/nslcd" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="onyxpoint-gpasswd_0.1.2 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/gpasswd" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="openvpn_nover [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/openvpn" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="parsed_0.0.1 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/host6" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="pdxcat-amanda_1.0.2 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/amanda" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="pe_1.6.0 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/redis" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="powerdns_nover [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/powerdns" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="profile_nover [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/profile" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="puppetlabs-activemq_0.3.1 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/activemq" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="puppetlabs-apache_1.4.1 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/apache" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="puppetlabs-apt_1.8.0 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/apt" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="puppetlabs-concat_1.2.3 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/concat" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="puppetlabs-firewall_1.5.0 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/firewall" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="puppetlabs-inifile_1.1.3 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/inifile" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="puppetlabs-java_1.0.1 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/java" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="puppetlabs-java_ks_1.2.0 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/java_ks" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="puppetlabs-mcollective_2.0.0 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/mcollective" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="puppetlabs-mount_providers_0.0.2 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/mount_providers" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="puppetlabs-mrepo_1.1.1 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/mrepo" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="puppetlabs-mysql_3.3.0 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/mysql" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="puppetlabs-nodejs_0.7.1 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/nodejs" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="puppetlabs-ntp_3.2.1 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/ntp" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="puppetlabs-postgresql_3.3.0 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/postgresql" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="puppetlabs-rabbitmq_5.2.0 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/rabbitmq" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="puppetlabs-ruby_0.4.0 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/ruby" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="puppetlabs-stdlib_4.6.0 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/stdlib" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="puppetlabs-xinetd_1.2.0 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/xinetd" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="puppetlabs/mysql_0.0.4 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/dashboard" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="puppetlabs/stdlib_0.2.0 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/sssd" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="puppetlabs/vcsrepo_0.2.0 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/vcsrepo" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="puppetlabs/xinetd_0.2.1 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/tftp" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="reidmv-yamlfile_0.2.0 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/yamlfile" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="richardc-datacat_0.5.0 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/datacat" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="rodjek-logrotate_1.1.1 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/logrotate" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="role_nover [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/role" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="rtyler-jenkins_1.3.0 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/jenkins" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="saz-gearman_2.2.0 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/gearman" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="saz-limits_2.0.1 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/limits" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="saz-memcached_2.4.0 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/memcached" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="saz-rsyslog_3.5.1 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/rsyslog" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="screen_nover [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/screen" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="selenium_nover [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/selenium" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="shoekstra-owncloud_0.3.1 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/owncloud" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="spiette-selinux_0.5.4 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/selinux" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="squirrelmail_nover [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/squirrelmail" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="stahnma-epel_1.0.2 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/epel" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="stephenrjohnson-puppet_1.3.1 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/puppet" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="stub [puppet module]">
+      <CLASSES>
+        <root url="file://$APPLICATION_PLUGINS_DIR$/puppet/lib/stubs" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="texlive_nover [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/texlive" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="thias-libvirt_0.3.2 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/libvirt" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="thias-php_1.1.1 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/php" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="thias-quagga_0.1.1 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/quagga" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="thias-squid3_0.2.3 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/squid3" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="tmpfs_nover [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/tmpfs" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="torian-ldap_0.2.4 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/ldap" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="willdurand-composer_1.1.0 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/composer" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="xvfb_nover [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/xvfb" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="zabbix_nover [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/zabbix" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="zpush_nover [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/zpush" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
