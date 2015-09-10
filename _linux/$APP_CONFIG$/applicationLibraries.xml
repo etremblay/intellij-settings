@@ -270,6 +270,12 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="jfryman-nginx_0.2.7 [puppet module]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/nginx" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="jjb_nover [puppet module]">
       <CLASSES>
         <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/jjb" />
