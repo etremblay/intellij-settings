@@ -132,12 +132,6 @@
       </CLASSES>
       <SOURCES />
     </library>
-    <library name="example42-puppi_2.1.11 [puppet module]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/puppi" />
-      </CLASSES>
-      <SOURCES />
-    </library>
     <library name="example42-yum_2.1.18 [puppet module]">
       <CLASSES>
         <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/yum" />
@@ -265,12 +259,6 @@
       <SOURCES />
     </library>
     <library name="jfryman-nginx_0.0.10 [puppet module]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/nginx" />
-      </CLASSES>
-      <SOURCES />
-    </library>
-    <library name="jfryman-nginx_0.2.7 [puppet module]">
       <CLASSES>
         <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/nginx" />
       </CLASSES>
@@ -495,12 +483,6 @@
     <library name="puppetlabs-stdlib_4.6.0 [puppet module]">
       <CLASSES>
         <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/stdlib" />
-      </CLASSES>
-      <SOURCES />
-    </library>
-    <library name="puppetlabs-vcsrepo_1.3.1 [puppet module]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/vcsrepo" />
       </CLASSES>
       <SOURCES />
     </library>
