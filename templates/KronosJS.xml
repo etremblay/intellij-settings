@@ -1,4 +1,4 @@
-<templateSet group="Kronos">
+<templateSet group="Kronos JS">
   <template name="debug" value="console.debug($VAR$);" description="console debug" toReformat="false" toShortenFQNames="true">
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
