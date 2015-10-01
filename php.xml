@@ -1,0 +1,9 @@
+<application>
+  <component name="PhpInterpreters">
+    <interpreters>
+      <interpreter home="ssh://vagrant@secure.dev.kronos-web.com:22/usr/bin/php" id="4f3521a5-b0b4-49e3-8a03-3f602e1688ed" name="Remote PHP" debugger_id="php.debugger.XDebug">
+        <remote_data HOST="secure.dev.kronos-web.com" PORT="22" ANONYMOUS="false" USERNAME="vagrant" PASSWORD="dfcbdfd9dfcedfecdf9bdf98df99df9e" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="" INITIALIZED="false" VALID="true" />
+      </interpreter>
+    </interpreters>
+  </component>
+</application>

@@ -1,4 +1,4 @@
-<templateSet group="Kronos">
+<templateSet group="Kronos PHP">
   <template name="qry" value="$stmt = AppManager::DbMaster()-&gt;ExecuteStatement($query, array($END$));&#10;$row = $stmt-&gt;fetch(\PDO::FETCH_ASSOC);&#10;$stmt-&gt;closeCursor();" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
