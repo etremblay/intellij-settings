@@ -1,0 +1,19 @@
+<application>
+  <component name="SlackStorage">
+    <option name="settings">
+      <map>
+        <entry key="Snipplet" value="T03BY53S8/B0MCXU867/MaFadkklBGmNNxtyZA9WExtR" />
+      </map>
+    </option>
+    <option name="aliases">
+      <map>
+        <entry key="Snipplet" value="SlackStorm" />
+      </map>
+    </option>
+    <option name="icons">
+      <map>
+        <entry key="Snipplet" value=":thunder_cloud_and_rain:" />
+      </map>
+    </option>
+  </component>
+</application>
