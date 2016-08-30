@@ -23,6 +23,7 @@
       <mask>*.pp</mask>
       <mask>*.erb</mask>
       <mask>*.xml</mask>
+      <mask>*.sql</mask>
     </recentFileMasks>
   </component>
 </application>
