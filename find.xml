@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '[kronos-crm] - .../app/views/components/Mail/Legacy/HTMLRecipient.js'" />
-    <option name="defaultScopeName" value="File '[kronos-crm] - .../app/views/components/Mail/Legacy/HTMLRecipient.js'" />
+    <option name="customScope" value="File '[kronos-crm] - .../app/views/components/Mail/Legacy/Mail.js'" />
+    <option name="defaultScopeName" value="File '[kronos-crm] - .../app/views/components/Mail/Legacy/Mail.js'" />
     <option name="localCaseSensitive" value="true" />
     <option name="localRegularExpressions" value="true" />
     <option name="showResultsInSeparateView" value="true" />
@@ -10,7 +10,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="File '[kronos-crm] - .../app/views/components/Mail/Legacy/HTMLRecipient.js'" />
+    <option name="SEARCH_SCOPE" value="File '[kronos-crm] - .../app/views/components/Mail/Legacy/Mail.js'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
