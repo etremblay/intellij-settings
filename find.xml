@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '[kronos-crm] - .../app/views/components/Document/Legacy/DocumentFileManager.js'" />
-    <option name="defaultScopeName" value="File '[kronos-crm] - .../app/views/components/Document/Legacy/DocumentFileManager.js'" />
+    <option name="customScope" value="File '[kronos-crm] - .../app/views/components/Document/Legacy/DocumentFile.js'" />
+    <option name="defaultScopeName" value="File '[kronos-crm] - .../app/views/components/Document/Legacy/DocumentFile.js'" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="File '[kronos-crm] - .../app/views/components/Document/Legacy/DocumentFileManager.js'" />
+    <option name="SEARCH_SCOPE" value="File '[kronos-crm] - .../app/views/components/Document/Legacy/DocumentFile.js'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
