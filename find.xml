@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[kronos-crm] - .../app/utils/Legacy/Util.js'" />
-    <option name="defaultScopeName" value="File '[kronos-crm] - .../app/utils/Legacy/Util.js'" />
+    <option name="customScope" value="File '[kronos-app-frontend] - .../js/AsyncTask.js'" />
+    <option name="defaultScopeName" value="File '[kronos-app-frontend] - .../js/AsyncTask.js'" />
     <option name="localCaseSensitive" value="true" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="File '[kronos-crm] - .../app/utils/Legacy/Util.js'" />
+    <option name="SEARCH_SCOPE" value="File '[kronos-app-frontend] - .../js/AsyncTask.js'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
