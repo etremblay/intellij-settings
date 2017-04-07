@@ -138,18 +138,6 @@
       </CLASSES>
       <SOURCES />
     </library>
-    <library name="FetchAPI" type="javaScript">
-      <properties>
-        <option name="frameworkName" value="node_modules" />
-        <sourceFilesUrls>
-          <item url="file://$USER_HOME$/kronos/others/fetch-types/FetchAPI.js" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/kronos/others/fetch-types/FetchAPI.js" />
-      </CLASSES>
-      <SOURCES />
-    </library>
     <library name="freight_nover [puppet module]">
       <CLASSES>
         <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/freight" />
