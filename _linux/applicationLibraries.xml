@@ -138,15 +138,15 @@
       </CLASSES>
       <SOURCES />
     </library>
-    <library name="fetch" type="javaScript">
+    <library name="FetchAPI" type="javaScript">
       <properties>
         <option name="frameworkName" value="node_modules" />
         <sourceFilesUrls>
-          <item url="file://$USER_HOME$/kronos/projects/kronos-crm/node_modules/whatwg-fetch/fetch.js" />
+          <item url="file://$USER_HOME$/kronos/others/fetch-types/FetchAPI.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/kronos/projects/kronos-crm/node_modules/whatwg-fetch/fetch.js" />
+        <root url="file://$USER_HOME$/kronos/others/fetch-types/FetchAPI.js" />
       </CLASSES>
       <SOURCES />
     </library>
