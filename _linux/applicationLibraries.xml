@@ -138,6 +138,18 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="fetch" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="node_modules" />
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/kronos/projects/kronos-crm/node_modules/whatwg-fetch/fetch.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/projects/kronos-crm/node_modules/whatwg-fetch/fetch.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="freight_nover [puppet module]">
       <CLASSES>
         <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/freight" />
