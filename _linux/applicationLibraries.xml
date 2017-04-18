@@ -282,6 +282,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="kronos-app-frontend" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/kronos/others/kronos-app-frontend/js/src" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/kronos/others/kronos-app-frontend/js/src" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="kronos_nover [puppet module]">
       <CLASSES>
         <root url="file://$USER_HOME$/kronos/infra/puppet-files/modules/kronos" />
